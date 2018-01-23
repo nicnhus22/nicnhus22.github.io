@@ -81,7 +81,7 @@ Safe methods are HTTP **methods that do not modify resources**. Meaning if you u
 > **APIs must use JSON formatted input and output.**
 
 **Example** 
-```json
+```javascript
 "user" : {
     "id": 19083974, 				// Number
     "name": "John Doe",				// String
